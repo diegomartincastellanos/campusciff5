@@ -5,4 +5,6 @@ A continuación se muestran los resultados de los ejercicios realizados:
 
 # 2.1 Crear un repositorio campusciff5
 
-![alt text](https://github.com/diegomartincastellanos/img/Creacion Repositorio campusciff5.png "Logo Title Text 1")
+![picture alt](https://github.com/diegomartincastellanos/campusciff5/img/Creacion Repositorio campusciff5.png)
+
+https://github.com/diegomartincastellanos/campusciff5.git
