@@ -61,8 +61,6 @@ git tag -a v0.1 -m "Tag v0.1"
 
 git push git@github.com:diegomartincastellanos/campusciff5.git
 
-
-
 # 2.11 Crear una rama v0.2
 
 git branch v0.2
@@ -71,7 +69,7 @@ git checkout v0.2
 
 git branch
 
-
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Crear%20Rama%20v02.png?raw=true)
 
 # 2.12 Añadir un fichero 2.txt en rama v0.2
 
