@@ -149,6 +149,7 @@ git tag -a v0.2 -m "Tag v0.2"
 
 git branch -d v0.2
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Crear%20tag%20v02.png?raw=true)
 
 # 2.21 Listar los distintos commits, tags y ramas
 
