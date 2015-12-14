@@ -93,6 +93,7 @@ git checkout master
 
 git merge v0.2
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Fusionar%20master%20v02.png?raw=true)
 
 # 2.15 En la rama master poner Hola en 1.txt
 
