@@ -165,7 +165,9 @@ git list
 
 # 2.23 Preguntar los nombres de usuario de GitHub. Seguir los repositorios campusciff del resto de tus compañeros y añadir una estrella 
 
+Estrellas:
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Estrellas.png?raw=true)
 
 # 2.24 Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase
 
