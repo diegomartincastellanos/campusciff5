@@ -39,6 +39,6 @@ mkdir privada
 
 # 2.7 Ignorar archivo privado.txt y carpeta privada
 
-![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Push%20SSH.png?raw=true)
+![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Gitignore.png?raw=true)
 
 
