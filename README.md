@@ -105,6 +105,7 @@ git add 1.txt
 
 git commit -m "Añadir Hola en 1.txt"
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Añadir%20Hola.png?raw=true)
 
 # 2.16 En la rama v0.2 poner Adios en 1.txt
 
