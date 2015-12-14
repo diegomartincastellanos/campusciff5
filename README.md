@@ -49,7 +49,7 @@ git add 1.txt
 
 git commit -m "Añadir 1.txt"
 
-
+![picture alt] (https://raw.githubusercontent.com/diegomartincastellanos/campusciff5/8443ae1ee8d9e5a92662e85e6a52c2ee8c9a265a/img/Añadir%201.png)
 
 # 2.9 Crear un tag v0.1
 
