@@ -117,6 +117,7 @@ git add 1.txt
 
 git commit -m "Añadir Hola en 1.txt en la rama v0.2"
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Añadir%20Adios.png?raw=true)
 
 # 2.17 Posicionarse en la rama master y hacer un merge con la rama v0.2
 
