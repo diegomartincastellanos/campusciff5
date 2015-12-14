@@ -155,6 +155,7 @@ git branch -d v0.2
 
 git list
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Commit%20Ramas%20Tags.png?raw=true)
 
 # 2.22 Poner foto de perfil y doble faltor de autentificación
 
