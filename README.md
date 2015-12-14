@@ -160,7 +160,10 @@ git list
 
 # 2.24 Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase
 
-
+| NOMBRE | GITHUB |
+| ------ | ------ |
+| Sergio Torres |  https://github.com/sergiotorrespalomino |
+| Ulises Ojeda |  http://github.com/ulisesojeda |
 
 
 
