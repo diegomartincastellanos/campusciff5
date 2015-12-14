@@ -29,6 +29,8 @@ git push git@github.com:diegomartincastellanos/campusciff5.git
 
 ![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Push%20SSH.png?raw=true)
 
+Si hemos modificado en remoto un archivo, por ejemplo README.md, y queremos hacer un PUSH desde local es necesario antes realizar un PULL para dejar constancia de las modificaciones de remoto en local y evitar problemas. Al realizar el PULL se produce una MERGE. El sistema nos pide añadir un mensaje para el commit.
+
 # 2.6 Crear archivo privado.txt y carpeta privada
 
 touch privado.txt
@@ -36,5 +38,7 @@ touch privado.txt
 mkdir privada
 
 # 2.7 Ignorar archivo privado.txt y carpeta privada
+
+![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Gitignore.png?raw=true)
 
 
