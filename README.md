@@ -25,4 +25,8 @@ git commit -m "Añadir commit inicial"
 
 # 2.5 Subir cambios al repositorio remoto
 
-git push 
+git push git@github.com:diegomartincastellanos/campusciff5.git
+
+![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Añadir%20Commit%20Inicial.png?raw=true)
+
+
