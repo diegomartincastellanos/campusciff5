@@ -29,4 +29,12 @@ git push git@github.com:diegomartincastellanos/campusciff5.git
 
 ![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Push%20SSH.png?raw=true)
 
+# 2.6 Crear archivo privado.txt y carpeta privada
+
+touch privado.txt
+
+mkdir privada
+
+# 2.7 Ignorar archivo privado.txt y carpeta privada
+
 
