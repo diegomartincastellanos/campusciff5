@@ -141,6 +141,7 @@ git add 1.txt
 
 git commit -m "Resolver conflicto Hola y Adios"
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Merge%20resuelto.png?raw=true)
 
 # 2.20 Crear un tag v0.2 y borrar la rama v0.2
 
