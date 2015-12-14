@@ -18,6 +18,7 @@ Completado
 # 2.4 Añadir al README.md los comandos utilizados y realizar un commit
 
 git add README.md
+
 git commit -m "Añadir commit inicial"
 
 ![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Añadir%20Commit%20Inicial.png?raw=true)
