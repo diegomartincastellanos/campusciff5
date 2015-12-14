@@ -20,4 +20,4 @@ Completado
 git add README.md
 git commit -m "Añadir commit inicial"
 
-![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Clonar%20Repositorio.png?raw=true)
+![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Añadir%20Commit%20Inicial.png?raw=true)
