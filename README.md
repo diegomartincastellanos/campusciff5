@@ -85,6 +85,7 @@ git commit -m "Añadir 2.txt en rama v0.2"
 
 git push git@github.com:diegomartincastellanos/campusciff5.git v0.2
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Github%20Subir%20cambios%20rama%20v02.png?raw=true)
 
 # 2.14 Posicionarse en la rama master y hacer un merge de la rama v0.2
 
