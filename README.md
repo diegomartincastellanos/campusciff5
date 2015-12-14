@@ -79,6 +79,7 @@ git add 2.txt
 
 git commit -m "Añadir 2.txt en rama v0.2"
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Añadir%202%20en%20v02.png?raw=true)
 
 # 2.13 Subir los cambios al repositorio remoto
 
