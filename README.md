@@ -7,3 +7,5 @@ A continuación se muestran los resultados de los ejercicios realizados:
 
 ![picture alt](https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Creacion%20Repositorio%20campusciff5.png?raw=true)
 
+# 2.2 Clonar repositorio campusciff5 en local
+
