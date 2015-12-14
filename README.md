@@ -161,7 +161,7 @@ git list
 
 ![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Foto%20Perfil.png?raw=true)
 
-![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Foto%20Perfil.png?raw=true)
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Doble%20Autentificacion.png?raw=true)
 
 # 2.23 Preguntar los nombres de usuario de GitHub. Seguir los repositorios campusciff del resto de tus compañeros y añadir una estrella 
 
