@@ -169,12 +169,20 @@ Estrellas:
 
 ![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Estrellas.png?raw=true)
 
+Seguidores:
+
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Seguidores.png?raw=true)
+
 # 2.24 Crear una tabla de este estilo en el fichero README.md con la información de varios de tus compañeros de clase
 
 | NOMBRE | GITHUB |
 | ------ | ------ |
 | Sergio Torres |  https://github.com/sergiotorrespalomino |
 | Ulises Ojeda |  http://github.com/ulisesojeda |
+
+# 2.25 Colaboradores
+
+
 
 
 
