@@ -213,6 +213,14 @@ Equipo colaborador:
 [Acceso index.html] (https://campusciff-diegomartincastellanos.github.io/index)
 
 
+# 2.29 Crear un pull request
+
+
+
+# 2.30 Gestionar un pull request
+
+
+
 
 
 
