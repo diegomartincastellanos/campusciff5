@@ -235,7 +235,7 @@ Crear un fork:
 
 Solicitar un pull request:
 
-![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Fork.png?raw=true)
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Solicitar%20pull%20request.png?raw=true)
 
 # 2.30 Gestionar un pull request
 
