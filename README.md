@@ -220,17 +220,18 @@ Equipo colaborador:
 
 # 2.29 Crear un pull request
 
-Realizado el fork de dos repositorios:
-
-    1. campusciff-marquezjr.github.io
-    2. campusciff-alfonsops.github.io
-
-
-
+    1. Realizado el fork de dos repositorios: campusciff-marquezjr.github.io y campusciff-alfonsops.github.io
+    2. Clonar los repositorios: git clone git@github.com:campusciff-diegomartincastellanos/campusciff-marquezjr.github.io.git
+    3. Crear la rama v0.2: git branch v0.2
+    4. Cambiar a la rama v0.2: git checkout v0.2
+    5. Insertar en index.html mi nombre: echo "Diego Martin Castellanos" > index.html
+    6. Añadir cambios: git add index.html
+    7. Confirmar cambios: git commit -m "Añadido Diego Martin Castellanos a index.html en rama v0.2"
+    8. Copiar cambios en repositorio remoto: git push git@github.com:campusciff-diegomartincastellanos/campusciff-marquezjr.github.io.git v0.2
 
 # 2.30 Gestionar un pull request
 
-
+En github solicitar un pull request de los cambios realizados
 
 
 
