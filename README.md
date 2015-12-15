@@ -199,11 +199,14 @@ Equipo administrador:
     1. asanzdiego (permisos owner)
     2. cpazsantos (permisos owner)
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/administradores.png?raw=true)
+
 Equipo colaborador:
 
     1. asanzdiego
     2. CIFFjuliangomez
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/administradores.png?raw=true)
 
 # 2.28 Crear un index.html que se pueda ver como página web
 
