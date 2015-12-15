@@ -190,6 +190,7 @@ Añadido colaborador asanzdiego
 
 Creada en github organización campusciff-diegomartincastellanos
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Crear%20organizacion.png?raw=true)
 
 # 2.27 Crear dos equipos
 
