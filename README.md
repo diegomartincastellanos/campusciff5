@@ -241,7 +241,9 @@ Solicitar un pull request:
 
 En github solicitar un pull request de los cambios realizados
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Gestionar%20pull%20request.png?raw=true)
 
+Y esto se acabó... :smile: :smile: :smile:
 
 
 
