@@ -220,6 +220,12 @@ Equipo colaborador:
 
 # 2.29 Crear un pull request
 
+Realizado el fork de dos repositorios:
+
+    1. campusciff-marquezjr.github.io
+    2. campusciff-alfonsops.github.io
+
+
 
 
 # 2.30 Gestionar un pull request
