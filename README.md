@@ -229,6 +229,14 @@ Equipo colaborador:
     7. Confirmar cambios: git commit -m "Añadido Diego Martin Castellanos a index.html en rama v0.2"
     8. Copiar cambios en repositorio remoto: git push git@github.com:campusciff-diegomartincastellanos/campusciff-marquezjr.github.io.git v0.2
 
+Crear un fork:
+
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Fork.png?raw=true)
+
+Solicitar un pull request:
+
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Fork.png?raw=true)
+
 # 2.30 Gestionar un pull request
 
 En github solicitar un pull request de los cambios realizados
