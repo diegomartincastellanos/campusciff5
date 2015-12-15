@@ -184,6 +184,37 @@ Seguidores:
 
 
 
+# 2.26 Crear una organización
+
+Creada en github organización campusciff-diegomartincastellanos
+
+
+# 2.27 Crear dos equipos
+
+Equipo administrador:
+
+    1. asanzdiego (permisos owner)
+    2. cpazsantos (permisos owner)
+
+Equipo colaborador:
+
+    1. asanzdiego
+    2. CIFFjuliangomez
+
+
+# 2.28 Crear un index.html que se pueda ver como página web
+
+    1. Creado un repositorio con el nombre de la organización +github.io: campusciff-diegomartincastellanos.github.io
+    2. Desde el propio github ir a la opción de Settings en el repositorio creado
+    3. Pulsar el botón de Automatic Page Generator hasta crear el fichero index.html
+    4. Editar el fichero index.html para añadir mi nombre: Diego Martín Castellanos
+    5. Visualizar el fichero index.html a través del navegador: https://campusciff-diegomartincastellanos.github.io/index
+ 
+[Acceso index.html] (https://campusciff-diegomartincastellanos.github.io/index)
+
+
+
+
 
 
 
