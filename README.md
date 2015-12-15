@@ -182,7 +182,9 @@ Seguidores:
 
 # 2.25 Colaboradores
 
+Añadido colaborador asanzdiego
 
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/Añadir%20colaborador.png?raw=true)
 
 # 2.26 Crear una organización
 
