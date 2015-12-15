@@ -206,7 +206,7 @@ Equipo colaborador:
     1. asanzdiego
     2. CIFFjuliangomez
 
-![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/administradores.png?raw=true)
+![picture alt] (https://github.com/diegomartincastellanos/campusciff5/blob/master/img/colaboradores.png?raw=true)
 
 # 2.28 Crear un index.html que se pueda ver como página web
 
@@ -217,7 +217,6 @@ Equipo colaborador:
     5. Visualizar el fichero index.html a través del navegador: https://campusciff-diegomartincastellanos.github.io/index
  
 [Acceso index.html] (https://campusciff-diegomartincastellanos.github.io/index)
-
 
 # 2.29 Crear un pull request
 
